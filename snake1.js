@@ -4,6 +4,7 @@ $(document).ready(function(){
 	var cw = 10; // El tamaño de las celdas será de 10 px
 	var d; // Dirección del movimiento
 	var food;
+	var score;
 	
 	// Inicializar Canvas
 	var canvas = $("#canvas")[0]; // La variable canvas contiene nuestro elemento <canvas>
